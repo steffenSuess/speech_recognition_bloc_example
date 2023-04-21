@@ -1,0 +1,6 @@
+package com.steffensuess.speech_recognition_bloc_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
